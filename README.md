@@ -58,5 +58,13 @@ This project is designed for **students, researchers, and practitioners** who wa
   - Latitude & Longitude  
 - **Target:** Median house value (`price`).  
 
-
 ---
+
+
+## Notebook Link
+  - click below to open the project in google colab:
+  - "C:\Users\savitha\Downloads\Housing predictions.ipynb"
+
+
+## Author 
+** Savitha **
