@@ -1,0 +1,5 @@
+Required tools for housing price prediction 
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
